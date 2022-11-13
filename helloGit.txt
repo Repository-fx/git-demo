@@ -4,9 +4,9 @@ hello World! hello Git!23456
 hello World! hello Git!
 hello World! hello Git!
 hello World! hello Git!
+hello World! hello Git! hot-fix
 hello World! hello Git!
 hello World! hello Git!
 hello World! hello Git!  master test
-
-hello World! hello Git!
+hello World! hello Git! hot-fix test
 hello World! hello Git!
